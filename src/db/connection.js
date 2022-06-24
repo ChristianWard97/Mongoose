@@ -12,5 +12,3 @@ const connection = async () => {
 };
 
 connection();
-
-// module.exports = connection;
